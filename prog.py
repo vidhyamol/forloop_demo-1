@@ -1,5 +1,5 @@
 def func():
-	lt=[21,34,764,2564,42]
+	lt=[20,34,764,2564,42]
 	for index,i in enumerate(lt):
 		print '[',index,']==> ',i
 
